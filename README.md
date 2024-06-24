@@ -21,11 +21,11 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
         ```
     - Build o projeto
         ```bash
-            dotnet build
+        dotnet build
         ```
     - Rode o projeto
         ```bash
-            dotnet run --project ApiAuthentication
+        dotnet run --project ApiAuthentication
         ```
     [Dotnet Restore](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-restore)
 
