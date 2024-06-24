@@ -35,14 +35,15 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
 
 3. Rodando a aplicação pelo Visual Studio
 
+    - Abra a Solução pelo Visual Studio
 ![open project](https://learn.microsoft.com/fr-fr/visualstudio/ide/media/vs-2019/open-local-project-from-cloned-repo.png?view=vs-2017&viewFallbackFrom=vs-2022)
 
-    3. Apos aberto o projeto, rode com o iis express
+    - Apos aberto o projeto, rode com o iis express
 
 ![run project](https://user-images.githubusercontent.com/1798510/68414453-81092500-0190-11ea-8564-918bd89f0da5.png)
 
 > [!WARNING]
-> Certifique-se que estaja na pagina /swagger/index.html. apos rodar o projeto.
+> ***Para ambos os casos, certifique-se que estaja na pagina /swagger/index.html. apos rodar o projeto.***
 
 ## Funcionalidades
 
