@@ -11,7 +11,7 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
 1. Clone o projeto
 
 ```bash
-  git clone https://github.com/WilliamAbelo/FCWebApplication.git
+  git clone https://github.com/WilliamAbelo/ApiAutentication.git
 ```
 2. Rodando a aplicação pelo prompt
     - ***certifique-se de estar na pasta do projeto***
