@@ -21,7 +21,7 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
         ```
     - Build o projeto
         ```bash
-            dotnet restore
+            dotnet build
         ```
     - Rode o projeto
         ```bash
