@@ -21,9 +21,9 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
         ```
     - Build o projeto[^2]
         ```bash
-        dotnet build[^3]
+        dotnet build
         ```
-    - Rode o projeto
+    - Rode o projeto[^3]
         ```bash
         dotnet run --project ApiAuthentication
         ```
