@@ -15,15 +15,15 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
 ```
 2. Rodando a aplicação pelo prompt
     - ***certifique-se de estar na pasta do projeto***
-    - Restaures os pacotes Nuget[^1]
+    - Restaures os pacotes Nuget [^1]
         ```bash
         dotnet restore
         ```
-    - Build o projeto[^2]
+    - Build o projeto [^2]
         ```bash
         dotnet build
         ```
-    - Rode o projeto[^3]
+    - Rode o projeto [^3]
         ```bash
         dotnet run --project ApiAuthentication
         ```
@@ -31,7 +31,7 @@ Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Auto
 
    [^2]: [Dotnet Build](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
     
-   [^3]: [Dotnet run](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-run)
+   [^3]: [Dotnet Run](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-run)
 
 3. Rodando a aplicação pelo Visual Studio
 
