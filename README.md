@@ -3,6 +3,8 @@
 
 Aplicação MVC em .NetCore 5 para estudo dos processos de Autenticação e Autorização em Jwt
 - .Net Core 5
+- JWT
+- SQL
 - MVC
 
 
